@@ -1,0 +1,41 @@
+body{
+    background-color: blanchedalmond;
+}
+header{
+    text-align: center;
+    background-color: rgba(165, 42, 42, 0.575);
+    /*width: 100%;*/
+    margin: 10px 25px;
+    padding: 5px 10px;
+}
+.isim{
+    color: rgba(90, 80, 80,);
+}
+nav{
+    display: flex;
+    justify-content:right;
+    
+}
+.profile{
+    justify-content: start;
+    width: 20%;
+}
+.links {
+    display: flex;
+    justify-content:space-between;
+    width: 70%;
+}
+.container{
+    display: flex;
+}
+
+.about{
+    color: rgb(29, 23, 20);
+    text-shadow: 5px 5px 10px rgb(255, 255, 255);
+}
+.web3{
+    background:linear-gradient(to bottom, red ,blue);
+    font-size: 100px;
+    color: rgb(220, 240, 39);
+
+}
